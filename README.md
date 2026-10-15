@@ -1,59 +1,74 @@
-# TensorFlow-in-Practice-deeplearning.ai-Coursera
-Contains notes, codes, anwers to quizzes and exercises of all the 4 courses of the [TensorFlow in Practice specialization](https://www.coursera.org/specializations/tensorflow-in-practice?), by deeplearning.ai
+# TensorFlow in Practice — Deep Learning Coursework
 
-## Course 1: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+**Hands-on TensorFlow learning across neural networks, computer vision, natural language processing, and time-series forecasting.**
 
-➥ [Week 1: A New Programming Paradigm][1]
+This repository is a collection of notebooks, exercises, and study materials associated with the **DeepLearning.AI TensorFlow in Practice** specialization on Coursera. It documents practical exposure to training neural networks, working with image and text data, and modeling sequential observations.
 
-➥ [Week 2: Introduction to Computer Vision][2]
+> **Portfolio context:** This is a learning/coursework repository, not a production ML service or a claim of original research. Course materials and assignments are attributed to their educational source.
 
-➥ [Week 3: Enhancing Vision with Convolutional Neural Networks][3]
+## Topics covered
 
-➥ [Week 4: Using Real-world Images][4]
+| Area | Practical concepts |
+| --- | --- |
+| Deep learning foundations | TensorFlow/Keras models, training, evaluation, basic computer vision |
+| Computer vision | Convolutional neural networks, image augmentation, transfer learning, multiclass classification |
+| Natural language processing | Text preprocessing, tokenization, word embeddings, sequence models |
+| Time-series forecasting | Windowed datasets, deep neural networks, recurrent networks, prediction |
 
-## Course 2: Convolutional Neural Networks in TensorFlow
+## Course structure
 
-➥ [Week 1: Exploring a Larger Dataset][5]
+### 1. Introduction to TensorFlow for AI, ML, and Deep Learning
 
-➥ [Week 2: Augmentation: A technique to avoid overfitting][6]
+Build foundational neural networks and apply them to image-related tasks.
 
-➥ [Week 3: Transfer Learning][7]
+- [Week 1 — A New Programming Paradigm](Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%201)
+- [Week 2 — Introduction to Computer Vision](Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%202)
+- [Week 3 — Convolutional Neural Networks](Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%203)
+- [Week 4 — Real-world Images](Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%204)
 
-➥ [Week 4: Multiclass Classifications][8]
+### 2. Convolutional Neural Networks in TensorFlow
 
-## Course 3: Natural Language Processing in TensorFlow
+Explore image datasets, generalization, and pretrained models.
 
-➥ [Week 1: Sentiment in text][9]
+- [Week 1 — Larger Datasets](Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201)
+- [Week 2 — Image Augmentation](Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202)
+- [Week 3 — Transfer Learning](Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203)
+- [Week 4 — Multiclass Classification](Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204)
 
-➥ [Week 2: Word Embeddings][10]
+### 3. Natural Language Processing in TensorFlow
 
-➥ [Week 3: Sequence Models][11]
+Work with text representations and neural sequence models.
 
-➥ [Week 4: Sequence Models and literature][12]
+- [Week 1 — Sentiment in Text](Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201)
+- [Week 2 — Word Embeddings](Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202)
+- [Week 3 — Sequence Models](Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203)
+- [Week 4 — Sequence Models and Literature](Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204)
 
-## Course 4: Sequences, Time Series and Prediction
+### 4. Sequences, Time Series, and Prediction
 
-➥ [Week 1: Sequences and Prediction][13]
+Explore forecasting with neural and recurrent architectures.
 
-➥ [Week 2: Deep Neural Networks for Time Series][14]
+- [Week 1 — Sequences and Prediction](Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%201)
+- [Week 2 — Deep Neural Networks for Time Series](Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%202)
+- [Week 3 — Recurrent Neural Networks](Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%203)
+- [Week 4 — Real-world Time Series](Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%204)
 
-➥ [Week 3: Recurrent Neural Networks for Time Series][15]
+## Skills demonstrated by the material
 
-➥ [Week 4: Real-world time series data][16]
+- Working with TensorFlow and Keras training workflows
+- Preparing image, text, and sequential datasets
+- Understanding CNNs, embeddings, and recurrent architectures
+- Experimenting with generalization techniques such as augmentation and transfer learning
+- Comparing learning approaches across different data modalities
 
-[1]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%201
-[2]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%202
-[3]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%203
-[4]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%204
-[5]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201
-[6]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202
-[7]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203
-[8]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204
-[9]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201
-[10]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202
-[11]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203
-[12]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204
-[13]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%201
-[14]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%202
-[15]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%203
-[16]: https://github.com/Anacoder1/TensorFlow-in-Practice-deeplearning.ai-Coursera/tree/master/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%204
+## How to explore
+
+Browse the course and week folders above. Open the included notebooks in Jupyter or Google Colab, where applicable. Older coursework may depend on TensorFlow versions or datasets used at the time, so execution may require environment adjustments.
+
+## Source and attribution
+
+This repository follows the [DeepLearning.AI TensorFlow in Practice specialization](https://www.coursera.org/specializations/tensorflow-in-practice) curriculum. Educational course content, prompts, and exercises belong to their respective creators. The repository is shared as a study reference; it should not be confused with an independently developed production application.
+
+---
+
+**Focus:** practical deep learning foundations that complement later work in AI engineering, data pipelines, and intelligent applications.

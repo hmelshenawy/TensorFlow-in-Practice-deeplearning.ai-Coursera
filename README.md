@@ -2,7 +2,9 @@
 
 **Hands-on TensorFlow learning across neural networks, computer vision, natural language processing, and time-series forecasting.**
 
-This repository is a collection of notebooks, exercises, and study materials associated with the **DeepLearning.AI TensorFlow in Practice** specialization on Coursera. It documents practical exposure to training neural networks, working with image and text data, and modeling sequential observations.
+This repository marks **my first hands-on practice in my Machine Learning journey**. I started here to move beyond theory and gain practical experience building and training models with TensorFlow.
+
+It is a collection of notebooks, exercises, and study materials associated with the **DeepLearning.AI TensorFlow in Practice** specialization on Coursera. It documents my early exploration of neural networks, computer vision, natural language processing, and time-series forecasting.
 
 > **Portfolio context:** This is a learning/coursework repository, not a production ML service or a claim of original research. Course materials and assignments are attributed to their educational source.
 
